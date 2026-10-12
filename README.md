@@ -15,7 +15,7 @@ Over **2.78 million** hearing-impaired Indians rely on ISL for communication —
 
 ---
 
-## 🧠 Core Innovations
+##  Core Innovations
 
 - **Fully On-Device** — Vision, speech, and language models all run on the Snapdragon NPU. Zero bytes leave the phone.
 - **Bidirectional** — ISL → Text/Speech **and** Speech → Animated ISL avatar.
@@ -37,7 +37,7 @@ Over **2.78 million** hearing-impaired Indians rely on ISL for communication —
 
 ---
 
-## 🏗️ Architecture (at a glance)
+##  Architecture (at a glance)
 
 amera → MediaPipe → LSTM → Gemma 2B → Piper TTS
 Mic → Whisper → Gemma 2B → Signing Avatar
@@ -47,7 +47,7 @@ Mic → Whisper → Gemma 2B → Signing Avatar
 
 ---
 
-## 🛠️ On-Device AI Stack
+##  On-Device AI Stack
 
 | Layer | Model / Tool | Why |
 |---|---|---|
