@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 
-> **Built for the iQOO Hackathon 2026 · Team sazi**
+
 
 **SignSync** is a private, offline, real-time Indian Sign Language (ISL) translator that runs entirely on a smartphone. No cloud. No upload. No compromise.
 
